@@ -24,7 +24,7 @@
   --white: #fff;
   --gray: #69707a;
   --gray-dark: #363d47;
-  --primary: #0061f2;
+  --primary: #00ac69;
   --secondary: #6900c7;
   --success: #00ac69;
   --info: #00cfd5;
@@ -3026,29 +3026,29 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #0061f2;
-  border-color: #0061f2;
+  background-color: #00ac69;
+  border-color: #00ac69;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #0052cc;
-  border-color: #004dbf;
+  background-color: #00ba94;
+  border-color: #00ba94;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #0052cc;
-  border-color: #004dbf;
+  background-color: #00ba94;
+  border-color: #00ba94;
   box-shadow: 0 0 0 0.2rem rgba(38, 121, 244, 0.5);
 }
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #0061f2;
-  border-color: #0061f2;
+  background-color: #00ba94;
+  border-color: #00ba94;
 }
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #004dbf;
-  border-color: #0047b2;
+  background-color: #00ba94;
+  border-color: #00ba94;
 }
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-primary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(38, 121, 244, 0.5);
@@ -18067,11 +18067,11 @@ button.bg-danger-soft:focus {
 }
 
 .text-primary {
-  color: #0061f2 !important;
+  color: #00ac69; !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #0042a6 !important;
+  color: #00ba94 !important;
 }
 
 .text-secondary {
@@ -18760,7 +18760,7 @@ body {
 }
 
 .overlay-primary:before {
-  background-color: #0061f2 !important;
+  background-color: #00ac69 !important;
 }
 
 .overlay-secondary:before {
@@ -20321,7 +20321,7 @@ body {
   border-bottom: none;
 }
 .card:not([class*=bg-]) .card-header {
-  color: #0061f2;
+  color: #00ac69;
 }
 
 .card-tabbed .card-header {
@@ -21081,12 +21081,12 @@ i-feather svg {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  color: #4a515b;
+  color: #00ac69;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
 .accordion-faq .accordion-faq-item .card-header .accordion-faq-item-heading .accordion-faq-item-heading-arrow {
-  color: #c5ccd6;
+  color: #00ac69;
   transition: transform 0.1s ease-in-out;
 }
 .accordion-faq .accordion-faq-item .card-header.collapsed .accordion-faq-item-heading .accordion-faq-item-heading-arrow {
